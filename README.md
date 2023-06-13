@@ -1,6 +1,7 @@
 # DividirContas
 
 Para visualização do site, basta baixar os arquivos numa mesma pasta e executar o index.html em um navegador. | To view the site, just download the files in the same folder and run index.html in a browser.
+<br>
 obs: Os 5% calculado é sobre o valor de cada conta particular. | ps: The 5% calculated is based on the value of each private account.
 <div align="center">
 Esses são alguns prints da página. | These are some prints of the page.
